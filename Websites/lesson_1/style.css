@@ -1,0 +1,19 @@
+body {
+background-color: rgb(125, 114, 198);
+text-align: center;
+color: aliceblue;
+
+
+}
+img {
+width: 900px;
+transition: 1s;
+}
+img:hover{
+width: 750px;
+
+}
+
+
+
+
